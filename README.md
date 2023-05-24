@@ -1,2 +1,2 @@
 # Calculator
-Optional project for techprep application (Discovery Partners Institute) in Chicago, IL
+Optional project for DPI (Discovery Partners Institute) techprep in Chicago, IL
